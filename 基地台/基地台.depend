@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625219270 source:c:\users\louie\onedrive\桌面\apcs\基地台\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+
