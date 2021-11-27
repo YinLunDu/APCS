@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623850176 source:c:\users\louie\onedrive\桌面\c++作業\交錯字串\main.cpp
+	<iostream>
+	<cstring>
+
+1624677628 source:c:\users\louie\onedrive\桌面\apcs\交錯字串\main.cpp
+	<iostream>
+	<cstring>
+
